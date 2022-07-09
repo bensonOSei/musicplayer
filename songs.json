@@ -1,0 +1,19 @@
+ {
+   "0": {
+      "title": "Sunflower",
+      "src": "music/sunflower.mp3",
+      "cover": "images/sunflower.jpg"
+    },
+   "1": {
+      "title": "Bad Guy",
+      "src": "music/bad guy.mp3",
+      "cover": "images/badguy.jpg"
+    },
+    "2": {
+      "title": "Happier",
+      "src": "music/happier.mp3",
+      "cover": "images/happier.png"
+    }
+ }
+  
+  

@@ -143,3 +143,12 @@ music.addEventListener("ended", function () {
   nextSong(1);
   music.play();
 });
+
+music.onloadstart = () =>{
+    document.querySelector('.loader').style.display = 'block'  
+}
+music.onloadeddata = () =>{
+    //console.log('loader');
+    document.querySelector('.loader').style.display = 'none'
+   
+}

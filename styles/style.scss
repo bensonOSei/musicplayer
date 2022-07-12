@@ -181,6 +181,11 @@ main {
     color: rgb(64, 60, 60);
     transition: font-size 0.2s ease;
   }
+
+  i.fas:hover {
+    color: #000;
+    font-size: 1.2rem;
+  }
 }
 
 input.volume-bar {
@@ -210,12 +215,10 @@ input.volume-bar {
   &:focus {
     outline: none;
   }
+  
 }
 
-.fas:hover {
-  color: #000;
-  font-size: 1.2rem;
-}
+
 
 .valumevalue{
     //display: none;
